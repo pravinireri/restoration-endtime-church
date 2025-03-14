@@ -82,57 +82,39 @@ document.addEventListener('DOMContentLoaded', function() {
   const locations = [
     {
       id: 1,
-      name: "Main Sanctuary",
+      name: "Embu Cathedral",
       address: "123 Faith Avenue",
       city: "Embu, Kenya",
       serviceTime: "Sundays at 9:00 AM & 11:30 AM",
-      phone: "+254 712 345 678",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      phone: "+254 704 445 890",
+      image: "https://images.unsplash.com/photo-1519491050282-cf00c82424b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       id: 2,
-      name: "Downtown Campus",
-      address: "45 Central Street",
-      city: "Embu, Kenya",
+      name: "Mwea Church",
+      address: "45 Prayer Street",
+      city: "Mwea, Kenya",
       serviceTime: "Sundays at 10:00 AM",
-      phone: "+254 712 345 679",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      phone: "+254 799 543 503",
+      image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       id: 3,
-      name: "North Campus",
-      address: "78 Highland Road",
-      city: "Embu, Kenya",
+      name: "Kerugoya Church",
+      address: "78 Spritual Road",
+      city: "Kerugoya, Kenya",
       serviceTime: "Sundays at 9:30 AM",
-      phone: "+254 712 345 680",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      phone: "+254 743 921 595",
+      image: "https://images.unsplash.com/photo-1657774681168-519d9c1a4a03?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       id: 4,
-      name: "South Campus",
-      address: "12 Valley View",
-      city: "Embu, Kenya",
-      serviceTime: "Sundays at 10:00 AM",
-      phone: "+254 712 345 681",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    },
-    {
-      id: 5,
-      name: "East Community",
-      address: "234 Sunrise Road",
-      city: "Embu, Kenya",
-      serviceTime: "Sundays at 9:00 AM",
-      phone: "+254 712 345 682",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    },
-    {
-      id: 6,
-      name: "West Campus",
-      address: "567 Sunset Boulevard",
-      city: "Embu, Kenya",
+      name: "Kimunye Church",
+      address: "567 Grace Boulevard",
+      city: "Kimunye, Kenya",
       serviceTime: "Sundays at 10:30 AM",
-      phone: "+254 712 345 683",
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      phone: "+254 758 621 110",
+      image: "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ];
   
